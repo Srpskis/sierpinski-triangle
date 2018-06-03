@@ -54,5 +54,3 @@ public class DisplayPanel{
         new DisplayPanel();
     }
 }
-
-// added a comment 
